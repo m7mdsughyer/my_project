@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#navImg{
+margin: 0px;
+padding: 0px;
+width: 100px;
+padding-right: 9px;
+}
+#Sy{
+    padding-right: 19px;
+    padding-top: 15px;
+}
+#input{
+    padding-bottom: 30px;
+}
+#imgm{
+    padding-left: 8px;
+}
+#signup{
+    background: black;
+    
+    color: white;
+}
+#welcS{
+    text-align: center;
+    color: white;
+}
+#Footer{
+    padding-bottom: 0px;
+    text-align: center;
+    background: olive;
+    font: bold;
+}
+#signB{
+    
+    text-align: center;
+}
+#or{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+#loginB{
+    margin-bottom: 12px;
+}
+#inputp{
+font-weight: bold;
+}
